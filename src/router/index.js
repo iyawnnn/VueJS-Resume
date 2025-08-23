@@ -1,20 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Resume from '@/views/Resume.vue'
+import Resume from '../views/Resume.vue'
 
-const routes = [
-  {
-    path: '/',
-    redirect: '/resume', 
-  },
-  {
-    path: '/resume',
-    name: 'Resume',
-    component: Resume,
-  },
-]
+const routes = [{ path: '/', name: 'Resume', component: Resume }]
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory('/VueJS-Resume/'),
   routes,
 })
 

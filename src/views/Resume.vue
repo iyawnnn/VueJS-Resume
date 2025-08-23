@@ -36,7 +36,6 @@
         <li>Responsive Web Design - freeCodeCamp</li>
         <li>The Ultimate JavaScript Series - Code with Mosh</li>
         <li>JavaScript Algorithms and Data Structures - freeCodeCamp</li>
-        
       </ul>
     </section>
 
@@ -67,7 +66,7 @@
 </template>
 
 <script>
-import '@/assets/style.css'
+import '../assets/style.css'
 
 export default {
   name: 'Resume',
