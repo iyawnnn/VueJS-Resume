@@ -20,7 +20,7 @@
     <section class="section">
       <h2>Technical Skills</h2>
       <ul>
-        <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Vue.js</li>
+        <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Vue.js, Bootstrap</li>
         <li><strong>Backend:</strong> PHP, Python, Java, Node.js, Express</li>
         <li><strong>Databases:</strong> MySQL, MongoDB</li>
         <li><strong>Tools:</strong> Git, GitHub, Postman</li>
